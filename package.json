@@ -1,0 +1,14 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "nodejs scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Carlos del Prado",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
